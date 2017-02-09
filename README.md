@@ -1,6 +1,6 @@
-## Sorting Algorithms 
+# Sorting Algorithms 
 
-# Linear Sorting Algorithms 
+## Linear Sorting Algorithms 
 
 1. Selection Sort
 
